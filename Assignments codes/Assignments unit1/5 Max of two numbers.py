@@ -7,4 +7,4 @@ max = a  #Algorithm
 if b>a:
     max = b
 
-print(f'THe Max of two numbwers is: {max}')  #Output
+print(f'The Max of two numbwers is: {max}')  #Output
