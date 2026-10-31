@@ -4,7 +4,7 @@ n = int(input("Enter the number: "))
 
 if n == 0:
     factorial = 0
-    print("Factorial of 0 is 0")
+    print("Factorial of 0 is 1")
 elif n<0:
     print("Enter non-negative number only!")
 else:
