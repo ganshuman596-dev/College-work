@@ -11,7 +11,7 @@ if temp<0:
     print("Freezing!")
 elif 0<=temp<=30:
     print("Normal!")
-elif 31<=temp<=60:
+elif 30<temp<=60:
     print("Warning!")
 else:
     print("Critical!")

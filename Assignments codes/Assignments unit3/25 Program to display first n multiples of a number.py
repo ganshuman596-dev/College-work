@@ -1,6 +1,6 @@
 # Program to display first n multiples of a number
 
-n = 10
+n = int(input("Enter the value of n: "))
 num = int(input("Enter the number: "))
 
 print(f'Following are the first {n} multiples of {num}: ',end="")
